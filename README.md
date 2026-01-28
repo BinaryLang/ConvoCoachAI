@@ -40,7 +40,7 @@ Users can simulate scenarios like job interviews, language speaking tests, sales
 
 ## 🎥 Demo Video
 
-> *(Add your demo video link here — Loom, YouTube, or Drive)*
+> *A video is attached in this project. You can check this.*
 
 ---
 
